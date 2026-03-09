@@ -74,7 +74,6 @@ right-click any XML file → Run
 ## From Maven:
 ```
 mvn clean test
-mvn clean test -Dsurefire.suiteXmlFiles=src/test/resources/arithmetic-tests.xml
 ```
 
 # 👨‍💻 Author
