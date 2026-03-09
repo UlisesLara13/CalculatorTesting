@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="TrigonometricSuite" parallel="classes" thread-count="4" verbose="2">
+
+    <test name="TrigonometricTests">
+        <groups>
+            <run>
+                <include name="trigonometric"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="test.calculator.TgTest"/>
+            <class name="test.calculator.CtgTest"/>
+            <class name="test.calculator.CosTest"/>
+            <class name="test.calculator.SinTest"/>
+        </classes>
+    </test>
+
+</suite>
