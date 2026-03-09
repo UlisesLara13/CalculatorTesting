@@ -49,7 +49,7 @@ CalculatorTesting/
 │       │       ├── IsPositiveTest.java     # isPositive(long)
 │       │       └── IsNegativeTest.java     # isNegative(long)
 │       └── resources/
-│           ├── all-tests.xml               # All groups
+│           ├── all-tests.xml               # All groups (default)
 │           ├── arithmetic-tests.xml        # arithmetic group
 │           ├── scientific-tests.xml        # scientific group
 │           ├── trigonometric-tests.xml     # trigonometric group
