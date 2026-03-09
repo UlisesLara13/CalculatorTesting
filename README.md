@@ -3,12 +3,12 @@ Unit tests for the Calculator library using TestNG, covering all 16 methods with
 
 ### Requirements
 
-Add Calculator-1.0.jar to project references
-One test class per Calculator method
-Pre-conditions and post-conditions with TestNG annotations
-XML suite configuration with at least one test group (include/exclude)
-Parametrized tests using @DataProvider
-Parallel execution
+- Add Calculator-1.0.jar to project references
+- One test class per Calculator method
+- Pre-conditions and post-conditions with TestNG annotations
+- XML suite configuration with at least one test group (include/exclude)
+- Parametrized tests using @DataProvider
+- Parallel execution
 
 
 ## 🏗️ Project Structure
